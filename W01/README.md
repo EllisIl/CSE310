@@ -11,9 +11,11 @@ much more interesting.
 
 # Development Environment
 
-Visual Studio Code
-Python 3.12.1
-ChatGPT (used to explain line overriding)
+* Visual Studio Code  
+
+* Python 3.12.1
+
+* ChatGPT (used to explain line overriding)
 
 # Useful Websites
 
